@@ -55,7 +55,7 @@ the output image is
 
 If the input image for AsciiArtGenerator535 is ![380-3804216_paper-plane-vector-png](https://github.com/user-attachments/assets/472033d5-7329-4a50-a40c-308774ed171e)
 
-the output generates (which is automatically copied to clipboard) is 
+the output generated (which is automatically copied to clipboard) is 
                                                                                                     
                                                                                     :-              
                                                                                   :---              
@@ -121,9 +121,11 @@ the output generates (which is automatically copied to clipboard) is
 
 
 ### **Enhanced Image (MATLAB Output)**
-- Original Image: ![75a57113f4e40776d3a66424f0c85eb268e2dcd1](https://github.com/user-attachments/assets/91fb03c7-5984-41b0-83d9-19ab99db2aef)
+- Original Image:
+  ![75a57113f4e40776d3a66424f0c85eb268e2dcd1](https://github.com/user-attachments/assets/91fb03c7-5984-41b0-83d9-19ab99db2aef)
 
-- Processed Image: ![filtered_image_color](https://github.com/user-attachments/assets/299f6f40-6941-4eed-9400-06e7769da810)
+- Processed Image:
+  ![filtered_image_color](https://github.com/user-attachments/assets/299f6f40-6941-4eed-9400-06e7769da810)
 
 
 ## Author
